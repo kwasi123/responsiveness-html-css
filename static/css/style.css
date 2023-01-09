@@ -159,6 +159,7 @@ footer ul {
 
   .flex-items {
     width: 33%;
+    overflow: hidden;
   }
 
   .flex-items:last-child {
@@ -173,7 +174,6 @@ footer ul {
     transform: scale(1.2);
     transition: transform 800ms ease-in-out;
     cursor: zoom-in;
-    overflow: hidden;
   }
 
   .footer-flex {
