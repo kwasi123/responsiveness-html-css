@@ -45,6 +45,7 @@ nav {
 
 .flex-items {
   margin-bottom: .4em;
+  overflow: hidden;
 }
 
 .cards {
