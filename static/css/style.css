@@ -173,6 +173,7 @@ footer ul {
     transform: scale(1.2);
     transition: transform 800ms ease-in-out;
     cursor: zoom-in;
+    overflow: hidden;
   }
 
   .footer-flex {
